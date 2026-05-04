@@ -16,12 +16,12 @@
 
 ## 🛠 Tech Stack
 
-**Frontend:** React, Next.js, HTML, CSS, JavaScript
-**Backend:** Node.js, Express.js
-**Mobile:** React Native
-**Database:** MongoDB, PostgreSQL
-**AI/ML:** AI integrations, OCR, Agentic AI (learning)
-**Tools:** Git, Linux
+* **Frontend:** React, Next.js, HTML, CSS, JavaScript
+* **Backend:** Node.js, Express.js
+* **Mobile:** React Native
+* **Database:** MongoDB, PostgreSQL
+* **AI/ML:** AI integrations, OCR, Agentic AI (learning)
+* **Tools:** Git, Linux
 
 ---
 
@@ -42,16 +42,11 @@ AI-powered mobile application that allows teachers to scan answer sheets and aut
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vanshpitale\&show_icons=true)
-
----
 
 ## 📫 Connect With Me
 
-* 💼 LinkedIn: https://linkedin.com/in/YOUR_USERNAME
-* 📧 Email: [your.email@example.com](mailto:your.email@example.com)
+* 💼 LinkedIn: https://www.linkedin.com/in/vansh-pitale/
+* 📧 Email: [vanssh24@gmail.com](mailto:vanssh24@gmail.com)
 
 ---
 
