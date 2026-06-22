@@ -16,12 +16,12 @@
 
 ## 🛠 Tech Stack
 
-* **Frontend:** React, Next.js, HTML, CSS, JavaScript
+* **Languages:** Java, C, C++, Python
+* **Frontend:** React, Next.js, HTML, CSS, JavaScript, TypeScript
 * **Backend:** Node.js, Express.js
-* **Mobile:** React Native
 * **Database:** MongoDB, PostgreSQL
-* **AI/ML:** AI integrations, OCR, Agentic AI (learning)
-* **Tools:** Git, Linux
+* **AI/ML:** AI integrations, OCR, Agentic AI
+* **Tools:** Git, GitHub
 
 ---
 
