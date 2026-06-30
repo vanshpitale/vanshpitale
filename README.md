@@ -31,6 +31,10 @@
 
 AI-powered mobile application that allows teachers to scan answer sheets and automatically generate evaluation scores using OCR and AI (Flash model).
 
+### FinSight AI – AI-Powered Personal Finance Platform
+
+Tech Stack: React, Node.js, Express.js, MongoDB, TypeScript
+Developed a full-stack finance management platform featuring transaction tracking, analytics dashboards, recurring transactions, CSV imports, and AI-powered financial insights. Implemented secure authentication, advanced reporting, and scalable REST APIs with a modern responsive UI.
 
 ---
 
