@@ -29,7 +29,7 @@
 
 ### 📱 AssessMate AI
 
-AI-powered mobile application that allows teachers to scan answer sheets and automatically generate evaluation scores using OCR and AI (Flash model).
+* AI-powered mobile application that allows teachers to scan answer sheets and automatically generate evaluation scores using OCR and AI (Flash model).
 
 ### FinSight AI – AI-Powered Personal Finance Platform
 
